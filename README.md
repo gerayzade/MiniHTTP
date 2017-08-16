@@ -10,4 +10,4 @@ gcc minihttp.c -o minihttp
 - the default request is considered as http://127.0.0.1:9000/index.php
 <img width="500px" src="mockup.jpg" />
 <br/><br/>
-View on <a href="http://www.gerayzade.me/dev/minihttp/" target="_blank">gerayzade.me</a>
+View on <a href="http://www.gerayzade.az/dev/minihttp/" target="_blank">gerayzade.az</a>
